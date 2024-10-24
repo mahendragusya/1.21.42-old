@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Auto Totem 1.1",
+    "description": "By ZorroCraft",
+    "uuid": "3f529281-de47-cdd2-9819-1da8c3d60007",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "c6e7df5d-003f-2a2c-aa47-beecf01a0137",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

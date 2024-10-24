@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§cMace Aspect BHC II",
+		"description": "GG Rekk",
+		"uuid": "45c70b96-ddfe-48bc-bff7-42e0121b4aeb",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 21, 0]
+	},
+	"metadata": {
+		"authors": ["smth"],
+		"generated_with": {
+			"blockbench_item_wizard": ["1.1.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "name",
+			"type": "resources",
+			"uuid": "411830ad-4394-4967-a42a-b623bd41c1d4",
+			"version": [1, 0, 0]
+		}
+	]
+}
